@@ -133,6 +133,13 @@ i{
   background: lightgrey;
   height: 800px;
 }
+#contacto{
+  text-align: center;
+  padding-top: 2  0px;
+  margin-top: 10px;
+  background: lightgrey;
+  height: 800px;
+}
 .imagen1 {
   text-align: center;
   background-color: white;
