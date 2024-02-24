@@ -102,22 +102,21 @@ i{
 }
 
 #inicio {
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 #perfil{
-
-      height: 960px;
+      height: 1000px;
 }
 #perfil p {
-    margin-top: 20px;
+    margin-top: 10px;
 }
 #habilidades{
   text-align: center;
   padding-top: 30px;
   margin-top: 20px;
   background: lightgrey;
-  height: 660px;
+  height: 960px;
 }
 #experiencias{
   text-align: center;
@@ -188,7 +187,7 @@ list-style: none;
 
 .habil li{
   margin-top: 40px;
-  width: 33%;
+  width: 25%;
   float: left;
   text-align: center;
 }
@@ -207,7 +206,7 @@ list-style: none;
   text-align: center;
 }
 .exper li img{
-width: 25%;
+width: 35%;
 height: 150px;
 }
 
